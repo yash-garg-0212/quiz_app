@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379031422043",
+    "project_id": "fir-series-91991",
+    "storage_bucket": "fir-series-91991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379031422043:android:7f93b4c0e20b35ae94ab7e",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA42X-hFtHuLvCUkdWI7g26FdTwZm5F3Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
